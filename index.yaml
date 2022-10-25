@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  mutating-webhook-no-cpu-limit:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-10-25T20:02:14.673691678Z"
+    description: Kubernetes Dynamic Admission Control which removes CPU limits when
+      creating pods
+    digest: 105c6a51e8be894e3f982fe50c10a38b05be1e4926e89851785f1c56435920c9
+    home: https://github.com/deepworx/mutating-webhook-no-cpu-limit
+    name: mutating-webhook-no-cpu-limit
+    urls:
+    - https://github.com/deepworx/helm-charts/releases/download/mutating-webhook-no-cpu-limit-0.0.1/mutating-webhook-no-cpu-limit-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-10-25T20:02:14.673698678Z"
