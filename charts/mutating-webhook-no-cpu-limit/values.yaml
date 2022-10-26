@@ -2,7 +2,7 @@
 
 image:
   repository: deepworx/mutating-webhook-no-cpu-limit
-  tag: 0.0.1
+  tag: ""
   pullPolicy: IfNotPresent
 
 replicas: 1
